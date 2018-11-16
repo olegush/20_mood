@@ -1,6 +1,6 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+Random sarcastic quote from [QUOTEAMBITION.COM](http://www.quoteambition.com/). See [https://olegush.github.io/20_mood/index.html](https://olegush.github.io/20_mood/index.html) on GitHub Pages.
 
 # Project Goals
 
